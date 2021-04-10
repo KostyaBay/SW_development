@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derivate_calc", "derivate_calc\derivate_calc.csproj", "{28DBC08D-57EA-41B3-9CF7-7643D47707B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{58FB1F01-BE4A-4B91-B748-E42338797BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28DBC08D-57EA-41B3-9CF7-7643D47707B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DBC08D-57EA-41B3-9CF7-7643D47707B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DBC08D-57EA-41B3-9CF7-7643D47707B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DBC08D-57EA-41B3-9CF7-7643D47707B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FB1F01-BE4A-4B91-B748-E42338797BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FB1F01-BE4A-4B91-B748-E42338797BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FB1F01-BE4A-4B91-B748-E42338797BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FB1F01-BE4A-4B91-B748-E42338797BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {903B9D14-088C-4358-9231-CC53436F8EB4}
+	EndGlobalSection
+EndGlobal

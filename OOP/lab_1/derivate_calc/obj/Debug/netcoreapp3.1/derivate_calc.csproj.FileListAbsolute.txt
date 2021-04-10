@@ -1,0 +1,15 @@
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/obj/Debug/netcoreapp3.1/derivate_calc.csprojAssemblyReference.cache
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/obj/Debug/netcoreapp3.1/derivate_calc.AssemblyInfoInputs.cache
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/obj/Debug/netcoreapp3.1/derivate_calc.AssemblyInfo.cs
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/obj/Debug/netcoreapp3.1/derivate_calc.csproj.CoreCompileInputs.cache
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/bin/Debug/netcoreapp3.1/derivate_calc.deps.json
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/bin/Debug/netcoreapp3.1/derivate_calc.runtimeconfig.json
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/bin/Debug/netcoreapp3.1/derivate_calc.runtimeconfig.dev.json
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/bin/Debug/netcoreapp3.1/derivate_calc.dll
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/bin/Debug/netcoreapp3.1/derivate_calc.pdb
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/obj/Debug/netcoreapp3.1/derivate_calc.dll
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/obj/Debug/netcoreapp3.1/derivate_calc.pdb
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/obj/Debug/netcoreapp3.1/derivate_calc.genruntimeconfig.cache
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/bin/Debug/netcoreapp3.1/Castle.Core.dll
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/bin/Debug/netcoreapp3.1/NSubstitute.dll
+/Users/konstantin/Documents/Development/sw-lab-2/laba/derivate_calc/derivate_calc/obj/Debug/netcoreapp3.1/derivate_calc.csproj.CopyComplete
