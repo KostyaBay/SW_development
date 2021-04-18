@@ -1,7 +1,8 @@
 # SW_development
 Modern technologies in SW development --- 2 course 2 sem (2021) --- student KPI 
 
-<bold>OOP: 
+<bold>OOP:
+  
   lab_#1
   
   1. Design and implement a solution with one or several classes with interface-based API for one of the tasks listed below (your_group_number % 15).
