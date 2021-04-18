@@ -1,1 +1,1 @@
-
+  Pattern: COMPOSITE
