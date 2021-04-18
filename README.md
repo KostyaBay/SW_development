@@ -34,5 +34,4 @@ Modern technologies in SW development --- 2 course 2 sem (2021) --- student KPI
   2. Implement it and cover with unit tests using any programming language
   3. Push it to your GitHub repository
   
-  lab_#3
-
+ 
