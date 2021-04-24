@@ -9,4 +9,3 @@
 /Users/konstantin/Documents/Development/SW_development/OOP/lab_2/design_pattern/design_pattern/obj/Debug/netcoreapp3.1/design_pattern_composite.dll
 /Users/konstantin/Documents/Development/SW_development/OOP/lab_2/design_pattern/design_pattern/obj/Debug/netcoreapp3.1/design_pattern_composite.pdb
 /Users/konstantin/Documents/Development/SW_development/OOP/lab_2/design_pattern/design_pattern/obj/Debug/netcoreapp3.1/design_pattern_composite.genruntimeconfig.cache
-/Users/konstantin/Documents/Development/SW_development/OOP/lab_2/design_pattern/design_pattern/obj/Debug/netcoreapp3.1/design_pattern_composite.csprojAssemblyReference.cache
